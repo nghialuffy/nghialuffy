@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋, I'm nghialuffy</h1>
 <p align="center"> I am Lê Văn Nghĩa (nghialuffy). A student at Da Nang University of Science and Technology.</p>
 <!-- <img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300"> -->
-<a href="https://app.daily.dev/nghialuffy"><img src="https://api.daily.dev/devcards/7ef7106665c94367b27b40c9fea87a31.png?r=h4h" width="400" alt="nghialuffy's Dev Card"/></a>
+<a href="https://app.daily.dev/nghialuffy"><img align="right" src="https://api.daily.dev/devcards/7ef7106665c94367b27b40c9fea87a31.png?r=h4h" width="300"   height="400" alt="nghialuffy's Dev Card"/></a>
 <h3 align="center"> Language & Skills </h3>
 
 - Python
