@@ -1,6 +1,15 @@
 <h1 align="center"> Hi there 👋, I'm nghialuffy</h1>
-<p align="center"> I am Lê Văn Nghĩa (nghialuffy). A student at Da Nang University of Science and Technology.</p>
-<!-- <img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300"> -->
+<h2 align="center"> I am Lê Văn Nghĩa (nghialuffy). A student at Da Nang University of Science and Technology.</h2>
+<br>
+<p align="center">
+    <code>Visitor count</code>
+    <img src="https://profile-counter.glitch.me/nghialuffy/count.svg" />
+    <br>
+    <a href="https://hits.seeyoufarm.com">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnghialuffy%2Fhit-counter&count_bg=%23A9142E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+    </a>
+</p>
+
 <a href="https://app.daily.dev/nghialuffy"><img align="right" src="https://api.daily.dev/devcards/7ef7106665c94367b27b40c9fea87a31.png?r=h4h" width="300"   height="400" alt="nghialuffy's Dev Card"/></a>
 <h3 align="center"> Language & Skills </h3>
 
@@ -28,5 +37,5 @@
 - 📝 I regulary write articles on [wordpress](https://nghialuffy.wordpress.com/), [blogspot](https://nghialuffy.blogspot.com/) or [spiderum](https://spiderum.com/nguoi-dung/nghialuffy/)
 - And here is my channel [youtube](https://www.youtube.com/channel/UCVL0lMU5Gm6evBsXtDJ210w)
 - And here is my [soundcloud](https://soundcloud.com/ngh-a-l-510649526)
-
-Last Edited on: 29/08/2021
+- My son, Kembot [telegram](https://t.me/Article123123Bot)
+Last Edited on: 10/11/2021
