@@ -14,17 +14,13 @@
 
 <h1 align="center"> Languages </h1>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,java,golang,bash&perline=10" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,java,golang,bash&perline=10" />
 </p>
 
 
 <h1 align="center"> Skills </h1>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,vim,neovim,redis,mysql,mongodb,rabbitmq,aws,git,github,ubuntu,windows,postman&perline=10"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=docker,vim,neovim,redis,mysql,mongodb,rabbitmq,aws,git,github,ubuntu,windows,postman&perline=10"/>
 </p>
 
 
