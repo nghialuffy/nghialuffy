@@ -6,7 +6,7 @@
   <tr>
     <td align="center">
       <h2 align="center">Visitor count</h2>
-      <img align="center" src="https://profile-counter.glitch.me/nghialuffy/count.svg" />
+      <img align="center" src="https://github-visitor-counter-tau.vercel.app/api?username=nghialuffy&displayMode=topCountries&theme=dark" />
     </td>
   </tr>
 </table>
